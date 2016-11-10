@@ -1,0 +1,86 @@
+<resources>
+
+    <string name="app_name">MultiselectionPlaylist</string>
+    <string name="all_songs">All songs</string>
+    <string name="favourite">Favourite</string>
+    
+    <string name="above_and_beyond">Above and Beyond</string>
+    <string name="all_over_the_world">All Over The World</string>
+    <string name="dur_04_35">04:35</string>
+
+    <string name="audioslave">Audioslave</string>
+    <string name="show_me_how_to_live">Show Me How To Live</string>
+    <string name="dur_04_37">04:37</string>
+
+    <string name="bon_jovi">Bon Jovi</string>
+    <string name="wanted_dead_or_alive">Wanted Dead Or Alive</string>
+    <string name="dur_05_08">05:08</string>
+
+    <string name="dmx">DMX</string>
+    <string name="x_gon_give_it_to_ya">X Gon\' Give It To Ya</string>
+    <string name="dur_03_37">03:37</string>
+
+    <string name="eric_clapton">Eric Clapton</string>
+    <string name="old_love">Old Love</string>
+    <string name="dur_06_24">06:24</string>
+
+    <string name="guns_n_roses">Guns N\' Roses</string>
+    <string name="estranged">Estranged</string>
+    <string name="dur_09_23">09:23</string>
+
+    <string name="haddaway">Haddaway</string>
+    <string name="what_is_love">What is Love</string>
+    <string name="dur_04_30">04:30</string>
+
+    <string name="jamie_n_commons">Jamie N Commons</string>
+    <string name="dont_you_know">Don\'t You Know</string>
+    <string name="dur_03_05">03:05</string>
+
+    <string name="joe_bonamassa">Joe Bonamassa</string>
+    <string name="sloe_gin">Sloe Gin</string>
+    <string name="dur_08_11">08:11</string>
+
+    <string name="joe_cocker">Joe Cocker</string>
+    <string name="my_fathers_son">My Father\'s Son</string>
+    <string name="dur_04_29">04:29</string>
+
+    <string name="kaleo">Kaleo</string>
+    <string name="hot_blood">Hot Blood</string>
+    <string name="dur_03_38">03:38</string>
+
+    <string name="marilyn_manson">Marilyn Manson</string>
+    <string name="nobodies">Nobodies</string>
+    <string name="dur_03_35">03:35</string>
+
+    <string name="nickelback">Nickelback</string>
+    <string name="do_this_anymore">Do This Anymore</string>
+    <string name="dur_04_03">04:03</string>
+
+    <string name="onerepublic">Onerepublic</string>
+    <string name="a_i">A.I.</string>
+    <string name="dur_05_09">05:09</string>
+
+    <string name="richie_kotzen">Richie Kotzen</string>
+    <string name="love_is_blind">Love is Blind</string>
+    <string name="dur_05_36">05:36</string>
+
+    <string name="roxette">Roxette</string>
+    <string name="it_must_have_been_love">It Must Have Been Love</string>
+    <string name="dur_04_20">04:20</string>
+
+    <string name="sia">Sia</string>
+    <string name="unstoppable">Unstoppable</string>
+
+    <string name="skye_ross">Skye and Ross</string>
+    <string name="the_point_of_no_return">The Point Of No Return</string>
+    <string name="dur_06_29">06:29</string>
+
+    <string name="the_infinity_room">The Infinity Room</string>
+    <string name="room_3">Room 3</string>
+    <string name="dur_06_18">06:18</string>
+
+    <string name="u2">U2</string>
+    <string name="stuck_in_a_moment">Stuck In A Moment You Can\'t Get Out Of</string>
+    <string name="dur_04_33">04:33</string>
+
+</resources>

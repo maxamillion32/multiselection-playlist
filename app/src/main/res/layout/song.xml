@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:foreground="?attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/rv_item_height">
+
+    <ImageView
+        android:id="@+id/ivThumbnail"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_marginStart="@dimen/activity_vertical_margin"
+        android:layout_width="@dimen/thumbnail_width"
+        android:layout_height="wrap_content"
+        android:contentDescription="@null"/>
+
+    <TextView
+        android:id="@+id/tvDuration"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_centerVertical="true"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginRight="@dimen/activity_vertical_margin"
+        android:layout_marginEnd="@dimen/activity_vertical_margin"
+        android:layout_marginStart="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:gravity="end"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/artist_song_margin"
+        android:layout_marginStart="@dimen/artist_song_margin"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:layout_toLeftOf="@id/tvDuration"
+        android:layout_toStartOf="@id/tvDuration"
+        android:textColor="@android:color/darker_gray"
+        android:layout_toRightOf="@id/ivThumbnail"
+        android:layout_toEndOf="@id/ivThumbnail" />
+
+    <TextView
+        android:id="@+id/tvArtist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/ivThumbnail"
+        android:layout_toEndOf="@id/ivThumbnail"
+        android:layout_below="@id/tvTitle"
+        android:layout_marginLeft="@dimen/artist_song_margin"
+        android:layout_marginStart="@dimen/artist_song_margin"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:layout_toLeftOf="@id/tvDuration"
+        android:layout_toStartOf="@id/tvDuration"
+        android:textColor="@android:color/darker_gray" />
+
+</RelativeLayout>
