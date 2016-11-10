@@ -2,9 +2,9 @@
 Inspired by https://github.com/Yalantis/Multi-Selection android multiselection solution variation without complex animation designed with java.
 
 # Screenshots
-<img src="/screenshots/01.png?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/02.png?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/03.png?raw=true" alt="alt text" width="199" height="400">
+<img src="/screenshots/01.png?raw=true" alt="alt text" width="225" height="400">
+<img src="/screenshots/02.png?raw=true" alt="alt text" width="225" height="400">
+<img src="/screenshots/03.png?raw=true" alt="alt text" width="225" height="400">
 
 # License
 ```
